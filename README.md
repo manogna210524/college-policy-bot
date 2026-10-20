@@ -62,12 +62,12 @@ Every answer is **grounded in the official document** and shows the **page numbe
 
 <table>
   <tr>
-    <td width="50%"><img src="docs/screenshots/home.png" alt="Home page listing policy categories"><p align="center"><b>Home: choose a policy</b></p></td>
-    <td width="50%"><img src="docs/screenshots/category.png" alt="Policy page with suggested questions"><p align="center"><b>Suggested questions for each policy</b></p></td>
+    <td width="50%"><img src="home.png" alt="Home page listing policy categories"><p align="center"><b>Home: choose a policy</b></p></td>
+    <td width="50%"><img src="category.png" alt="Policy page with suggested questions"><p align="center"><b>Suggested questions for each policy</b></p></td>
   </tr>
   <tr>
-    <td width="50%"><img src="docs/screenshots/answer.png" alt="Answer with page references"><p align="center"><b>Answer from the source, with page tags</b></p></td>
-    <td width="50%"><img src="docs/screenshots/read-policy-dark.png" alt="Reading the official PDF in dark mode"><p align="center"><b>Read the official PDF (dark mode)</b></p></td>
+    <td width="50%"><img src="answer.png" alt="Answer with page references"><p align="center"><b>Answer from the source, with page tags</b></p></td>
+    <td width="50%"><img src="read-policy-dark.png" alt="Reading the official PDF in dark mode"><p align="center"><b>Read the official PDF (dark mode)</b></p></td>
   </tr>
 </table>
 
