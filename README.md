@@ -13,7 +13,7 @@ An AI assistant that answers questions about IIT Indore's official rules and pol
 ![Gemini](https://img.shields.io/badge/Google%20Gemini-LLM-8E75B2?logo=googlegemini&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-Embeddings-FFD21E?logo=huggingface&logoColor=black)
 
-![Library Rules answer with page references](docs/screenshots/answer.png)
+![Library Rules answer with page references](answer.png)
 
 </div>
 
