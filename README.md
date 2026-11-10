@@ -252,7 +252,7 @@ CollegePolicyBot/
 
 Made for the students and staff of **IIT Indore** 🏛️
 
-From - Kondeti Praveen Kumar
+From - Kondeti Praveen Kumar(230005022)
 
 
 </div>
