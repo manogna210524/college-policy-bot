@@ -250,7 +250,7 @@ CollegePolicyBot/
 
 <div align="center">
 
-Made for the students of **IIT Indore** 🏛️
+Made for the students and proff of **IIT Indore** 🏛️
 
 From - Kondeti Praveen Kumar
 
