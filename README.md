@@ -252,6 +252,7 @@ CollegePolicyBot/
 
 Made for the students of **IIT Indore** 🏛️
 
-From - Adikam Manogna
+From - Kondeti Praveen Kumar
+
 
 </div>
